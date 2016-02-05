@@ -5,11 +5,6 @@ PrincessVictoria
 WordPress theme for PrincessVictoria
 
 
-
-
-Website Plugin List
-===================
-
 = PLUGINS
 
 
